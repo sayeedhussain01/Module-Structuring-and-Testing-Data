@@ -21,6 +21,6 @@ function getOrdinalNumber(num) {
   }
 }
 
-console.log(getOrdinalNumber(22));
+// console.log(getOrdinalNumber(22));
 
 module.exports = getOrdinalNumber;
